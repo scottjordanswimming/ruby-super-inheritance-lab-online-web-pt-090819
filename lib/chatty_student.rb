@@ -7,6 +7,6 @@
   end
   
   def raise_hand
-    10.times.do
+    10.times.do 
   end
 end
