@@ -1,6 +1,6 @@
  class ChattyStudent < Student
   
-  def log_in
+  def hello
     super
     @in_class = true
   end
