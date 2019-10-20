@@ -7,6 +7,6 @@
   end
   
   def raise_hand
-    super
+    super.times do 
   end
 end
